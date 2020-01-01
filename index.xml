@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaji&#39;s Blog</title>
-    <link>https://jiajizhou.org/githubpagetest/</link>
+    <link>https://jiajizhou.com/githubpagetest/</link>
     <description>Recent content on Jiaji&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 15:13:47 -0800</lastBuildDate>
     
-	<atom:link href="https://jiajizhou.org/githubpagetest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiajizhou.com/githubpagetest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://jiajizhou.org/githubpagetest/posts/my-first-post/</link>
+      <link>https://jiajizhou.com/githubpagetest/posts/my-first-post/</link>
       <pubDate>Tue, 31 Dec 2019 15:13:47 -0800</pubDate>
       
-      <guid>https://jiajizhou.org/githubpagetest/posts/my-first-post/</guid>
+      <guid>https://jiajizhou.com/githubpagetest/posts/my-first-post/</guid>
       <description>hello world</description>
     </item>
     
